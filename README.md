@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Welcome to my profile!</h1>
-  <p>- 👋 Olá, sou Lucas Crapino, atualmente estou no terceiro ano do curso de Engenharia de Computação do Instituto Mauá de Tecnologia, sempre em busca de novos aprendizados e experiências!</p>
+  <p>- 👋 Olá, sou Lucas Crapino, atualmente estou no quarto ano (7° semestre) do curso de Engenharia de Computação do Instituto Mauá de Tecnologia, sempre em busca de novos aprendizados e experiências!</p>
 </div>
 
 <div align="center">
