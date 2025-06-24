@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1>Welcome to my profile!</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
   <p>- 👋 Olá, sou Lucas Crapino, atualmente estou no quarto ano (7° semestre) do curso de Engenharia de Computação do Instituto Mauá de Tecnologia, sempre em busca de novos aprendizados e experiências!</p>
 </div>
 
