@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Lucas-Icons" height="50" src="https://skillicons.dev/icons?i=aws,java,py,mysql,postgresql,vscode,javascript">  
+  <img align="center" alt="Lucas-Icons" height="50" src="https://skillicons.dev/icons?i=aws,java,py,javascript,mysql,postgresql,docker,vscode">  
 </div>
   
 <div align="center">
